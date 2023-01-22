@@ -1,0 +1,254 @@
+qc_id,fid,stadium,city,state,team,conference,capacity,built,expanded,div,latitude,longitude,icon_url
+"63","64",Carrier Dome,Syracuse,NY,Syracuse,ACC,"49250","1980",,fbs,43.0361328204232,-76.136519908905,./0.png
+"110","111",UB Stadium,Amherst,NY,Buffalo,MAC,"29013","1993",,fbs,42.9990683823964,-78.7775194644928,./0.png
+"0","1",Michigan Stadium,Ann Arbor,MI,Michigan,Big Ten,"107601","1927","2015",fbs,42.2658687325174,-83.7487256526947,./0.png
+"1","2",Beaver Stadium,University Park,PA,Penn State,Big Ten,"106572","1960","2001",fbs,40.8121527327504,-77.8562021255493,./0.png
+"2","3",Ohio Stadium,Columbus,OH,Ohio State,Big Ten,"104944","1922","2014",fbs,40.0016856893694,-83.019728064537,./0.png
+"3","4",Kyle Field,College Station,TX,Texas A&M,SEC,"102733","1927","2015",fbs,30.6100975781748,-96.3407292285928,./0.png
+"4","5",Neyland Stadium,Knoxville,TN,Tennessee,SEC,"102455","1921","2010",fbs,35.9547343726226,-83.9253330230713,./0.png
+"5","6",Tiger Stadium,Baton Rouge,LA,LSU,SEC,"102321","1924","2014",fbs,30.4120123982997,-91.183819770813,./0.png
+"6","7",Bryant–Denny Stadium,Tuscaloosa,AL,Alabama,SEC,"101821","1929","2010",fbs,33.2074899449518,-87.5503921508789,./0.png
+"7","8",Darrell K Royal–Texas Memorial Stadium,Austin,TX,Texas,Big 12,"100119","1924","2009",fbs,30.2836034020682,-97.7323365211487,./0.png
+"8","9",Los Angeles Memorial Coliseum,Los Angeles,CA,Southern California,Pac-12,"93607","1923","2008",fbs,34.0140097406291,-118.287895917892,./0.png
+"9","10",Sanford Stadium,Athens,GA,Georgia,SEC,"92746","1929","2004",fbs,33.9498214894988,-83.373441696167,./0.png
+"10","11",Rose Bowl,Pasadena,CA,UCLA,Pac-12,"92542","1921","1949",fbs,34.1615695872626,-118.167614936829,./0.png
+"11","12",Ben Hill Griffin Stadium,Gainesville,FL,Florida,SEC,"88548","1930","2003",fbs,29.6498686779723,-82.3486661911011,./0.png
+"12","13",Jordan–Hare Stadium,Auburn,AL,Auburn,SEC,"87451","1939","2004",fbs,32.6023616668175,-85.4889106750488,./0.png
+"13","14",Memorial Stadium,Lincoln,NE,Nebraska,Big Ten,"87091","1923","2013",fbs,40.8204835232949,-96.7057156562805,./0.png
+"14","15",Bobby Bowden Field at Doak Campbell Stadium,Tallahassee,FL,Florida State,ACC,"82300","1950","2003",fbs,30.4375475846213,-84.304533981035,./0.png
+"15","16",Gaylord Family Oklahoma Memorial Stadium,Norman,OK,Oklahoma,Big 12,"82112","1925","2003",fbs,35.2058995948851,-97.4425506591797,./0.png
+"16","17",Memorial Stadium,Clemson,SC,Clemson,ACC,"81500","1942","2006",fbs,34.6787466574135,-82.8431797027588,./0.png
+"17","18",Notre Dame Stadium,Notre Dame,IN,Notre Dame,Independent,"80795","1930","1997",fbs,41.6984231215861,-86.2338244915009,./0.png
+"18","19",Camp Randall Stadium,Madison,WI,Wisconsin,Big Ten,"80321","1917","2005",fbs,43.0699380264688,-89.4127464294434,./0.png
+"19","20",Williams-Brice Stadium,Columbia,SC,South Carolina,SEC,"80250","1934","1996",fbs,33.9725911545769,-81.020216345787,./0.png
+"20","21",Spartan Stadium,East Lansing,MI,Michigan State,Big Ten,"75005","1923","2005",fbs,42.7281691163326,-84.4848753511906,./0.png
+"21","22",Donald W. Reynolds Razorback Stadium,Fayetteville,AR,Arkansas,SEC,"72000","1938","2006",fbs,36.0678507851673,-94.1787958145142,./0.png
+"22","23",Sun Devil Stadium Frank Kush Field,Tempe,AZ,Arizona State,Pac-12,"71706","1958","1998",fbs,33.426364,-111.932616,./0.png
+"23","24",Faurot Field,Columbia,MO,Missouri,SEC,"71168","1927","1997",fbs,38.9358952967223,-92.3331141471863,./0.png
+"24","25",Kinnick Stadium,Iowa City,IA,Iowa,Big Ten,"70585","1929","2006",fbs,41.6583889368098,-91.5514755249023,./0.png
+"25","26",Qualcomm Stadium,San Diego,CA,San Diego State,Mountain West,"70561","1967","1997",fbs,32.7830532577911,-117.119600772858,./0.png
+"26","27",Husky Stadium,Seattle,WA,Washington,Pac-12,"70500","1920","2012",fbs,47.6504305440122,-122.302919847393,./0.png
+"27","28",Lincoln Financial Field,Philadelphia,PA,Temple,American,"68532","2003",,fbs,39.9007489004881,-75.1674914360046,./0.png
+"28","29",Heinz Field,Pittsburgh,PA,Pittsburgh,ACC,"68400","2001",,fbs,40.4467837650163,-80.0157558917999,./0.png
+"29","30",Lane Stadium,Blacksburg,VA,Virginia Tech,ACC,"66233","1965","2005",fbs,37.2199742830054,-80.4180550575256,./0.png
+"30","31",Raymond James Stadium,Tampa,FL,USF,American,"65857","1998",,fbs,27.9759944700372,-82.5033491849899,./0.png
+"31","32",Sun Life Stadium,Miami Gardens,FL,Miami,ACC,"65326","1987","2016",fbs,25.957933739029,-80.2388405799866,./0.png
+"32","33",Alamodome,San Antonio,TX,UTSA,C-USA,"65000","1993",,fbs,29.4169371286816,-98.4789025783539,./0.png
+"33","34",LaVell Edwards Stadium,Provo,UT,BYU,Independent,"63725","1964","1982",fbs,40.2574879974631,-111.654438972473,./0.png
+"34","35",Kenan Memorial Stadium,Chapel Hill,NC,North Carolina,ACC,"62980","1927","2011",fbs,35.9069883474785,-79.0479183197021,./0.png
+"35","36",California Memorial Stadium,Berkeley,CA,California,Pac-12,"62717","1923","2012",fbs,37.8706866037043,-122.250709533691,./0.png
+"36","37",Liberty Bowl Memorial Stadium,Memphis,TN,Memphis,American,"62380","1965","1987",fbs,35.120856917269,-89.9780574112839,./0.png
+"37","38",Commonwealth Stadium,Lexington,KY,Kentucky,SEC,"62093","1973","1999",fbs,38.0226216812936,-84.5052051544189,./0.png
+"38","39",Jack Trice Stadium,Ames,IA,Iowa State,Big 12,"61500","1975","2015",fbs,42.0140054110849,-93.6358094215393,./0.png
+"39","40",Scott Stadium,Charlottesville,VA,Virginia,ACC,"61500","1931","2000",fbs,38.0311237285569,-78.513708114624,./0.png
+"40","41",Davis Wade Stadium,Starkville,MS,Mississippi State,SEC,"61337","1914","2014",fbs,33.4562305990721,-88.7934243679047,./0.png
+"41","42",Jones AT&T Stadium,Lubbock,TX,Texas Tech,Big 12,"60862","1947","2013",fbs,33.591028298011,-101.872937679291,./0.png
+"42","43",Memorial Stadium,Champaign,IL,Illinois,Big Ten,"60670","1923","2011",fbs,40.0993057313305,-88.2359862327576,./0.png
+"43","44",Vaught–Hemingway Stadium,Oxford,MS,Mississippi,SEC,"60580","1915","2002",fbs,34.3621543029929,-89.534146260209,./0.png
+"44","45",Boone Pickens Stadium,Stillwater,OK,Oklahoma State,Big 12,"60218","1919","2005",fbs,36.1257086623585,-97.0665049552917,./0.png
+"45","46",Mountaineer Field at Milan Puskar Stadium,Morgantown,WV,West Virginia,Big 12,"60000","1980","2004",fbs,39.6522199248282,-79.9551753012939,./0.png
+"46","47",Carter–Finley Stadium,Raleigh,NC,NC State,ACC,"57583","1966","2006",fbs,35.800759682079,-78.7194871902466,./0.png
+"47","48",Ross–Ade Stadium,West Lafayette,IN,Purdue,Big Ten,"56400","1924","2006",fbs,40.434323,-86.918485,./0.png
+"48","49",Bobby Dodd Stadium at Historic Grant Field,Atlanta,GA,Georgia Tech,ACC,"55000","1913","2003",fbs,33.7725569213194,-84.3928527832031,./0.png
+"49","50",Papa John's Cardinal Stadium,Louisville,KY,Louisville,ACC,"55000","1998","2009",fbs,38.2054216852114,-85.7581056156681,./0.png
+"50","51",Autzen Stadium,Eugene,OR,Oregon,Pac-12,"54000","1967","2002",fbs,44.0582727242666,-123.068504333496,./0.png
+"51","52",Memorial Stadium,Bloomington,IN,Indiana,Big Ten,"52959","1960","2010",fbs,39.1809091337292,-86.5255737304688,./0.png
+"52","53",TCF Bank Stadium,Minneapolis,MN,Minnesota,Big Ten,"52525","2009",,fbs,44.9765249691119,-93.224575817585,./0.png
+"53","54",High Point Solutions Stadium,Piscataway,NJ,Rutgers,Big Ten,"52454","1994","2009",fbs,40.5137828930887,-74.4650445708728,./0.png
+"54","55",Arizona Stadium,Tucson,AZ,Arizona,Pac-12,"51811","1928","1988",fbs,32.2283402320715,-110.949039459229,./0.png
+"55","56",Byrd Stadium,College Park,MD,Maryland,Big Ten,"51802","1950","2009",fbs,38.9912027514443,-76.9473117324879,./0.png
+"56","57",Sun Bowl Stadium,El Paso,TX,UTEP,C-USA,"51500","1963","1981",fbs,31.7733453051278,-106.507896780968,./0.png
+"57","58",Folsom Field,Boulder,CO,Colorado,Pac-12,"50183","1924","2003",fbs,40.0093983744632,-105.266886949539,./0.png
+"58","59",Memorial Stadium,Lawrence,KS,Kansas,Big 12,"50071","1921","1999",fbs,38.9629459889854,-95.2463150024414,./0.png
+"59","60",Aloha Stadium,Honolulu,HI,Hawaii,Mountain West,"50000","1975","2003",fbs,21.3727829932683,-157.929968833923,./0.png
+"60","61",Dowdy–Ficklen Stadium,Greenville,NC,East Carolina,American,"50000","1963","2010",fbs,35.5964257969893,-77.3652291297913,./0.png
+"61","62",Bill Snyder Family Football Stadium,Manhattan,KS,Kansas State,Big 12,"50000","1968","2005",fbs,39.2018636181425,-96.5937924385071,./0.png
+"62","63",Stanford Stadium,Stanford,CA,Stanford,Pac-12,"50000","2006",,fbs,37.4347264132917,-122.161016464233,./0.png
+"64","65",Ryan Field,Evanston,IL,Northwestern,Big Ten,"47130","1926","1997",fbs,42.0653996675299,-87.6924955844879,./0.png
+"65","66",Rice Stadium,Houston,TX,Rice,C-USA,"47000","1950",,fbs,29.7162340290944,-95.4092645645142,./0.png
+"66","67",Falcon Stadium,Colorado Springs,CO,Air Force,Mountain West,"46692","1962",,fbs,38.9969074312269,-104.843688011169,./0.png
+"67","68",Reser Stadium,Corvallis,OR,Oregon State,Pac-12,"45674","1953","2005",fbs,44.5594768421455,-123.281407356262,./0.png
+"68","69",Bright House Networks Stadium,Orlando,FL,UCF,American,"45323","2007",,fbs,28.6079588592271,-81.1929988861084,./0.png
+"69","70",McLane Stadium,Waco,TX,Baylor,Big 12,"45140","2014",,fbs,31.5586626355117,-97.1156001091003,./0.png
+"70","71",Rice-Eccles Stadium,Salt Lake City,UT,Utah,Pac-12,"45017","1998","1998",fbs,40.7599478200457,-111.8488240242,./0.png
+"71","72",Amon G. Carter Stadium,Fort Worth,TX,TCU,Big 12,"45000","1929","2012",fbs,32.7099159694235,-97.3679959774017,./0.png
+"72","73",Alumni Stadium,Chestnut Hill,MA,Boston College,ACC,"44500","1957","1995",fbs,42.3351083489585,-71.1664724349976,./0.png
+"73","74",Bulldog Stadium,Fresno,CA,Fresno State,Mountain West,"41031","1980","1992",fbs,36.8143196952459,-119.758101566906,./0.png
+"74","75",Vanderbilt Stadium,Nashville,TN,Vanderbilt,SEC,"40350","1922","2004",fbs,36.1435584969638,-86.8087720870972,./0.png
+"75","76",Rentschler Field,East Hartford,CT,Connecticut,American,"40000","2003",,fbs,41.7598842782029,-72.6189422607422,./0.png
+"76","77",Nippert Stadium,Cincinnati,OH,Cincinnati,American,"40000","1924","2015",fbs,39.131284252734,-84.5162614374158,./0.png
+"77","78",TDECU Stadium,Houston,TX,Houston,American,"40000","2014",,fbs,29.7217679632935,-95.3490984109521,./0.png
+"78","79",University Stadium,Albuquerque,NM,New Mexico,Mountain West,"39224","1960","2007",fbs,35.0676104826716,-106.628102835816,./0.png
+"79","80",Joan C. Edwards Stadium,Huntington,WV,Marshall,C-USA,"38019","1991","2000",fbs,38.4248653617916,-82.4218583106995,./0.png
+"80","81",Michie Stadium,West Point,NY,Army,Independent,"38000","1924","2001",fbs,41.3870804347742,-73.9640808105469,./0.png
+"81","82",Albertsons Stadium,Boise,ID,Boise State,Mountain West,"37000","1970","2012",fbs,43.6027080538683,-116.195912361145,./0.png
+"82","83",Cajun Field,Lafayette,LA,Louisiana-Lafayette,Sun Belt,"36900","1971",,fbs,30.2157960967561,-92.0162641355238,./0.png
+"83","84",Sam Boyd Stadium,Whitney,NV,UNLV,Mountain West,"36800","1971","1999",fbs,36.0859738804692,-115.017113685608,./0.png
+"84","85",M. M. Roberts Stadium,Hattiesburg,MS,Southern Miss,C-USA,"36000","1932","2008",fbs,31.3289784266123,-89.3313306570053,./0.png
+"85","86",Skelly Field at H. A. Chapman Stadium,Tulsa,OK,Tulsa,American,"35542","1930","2005",fbs,36.1488606751921,-95.943603515625,./0.png
+"86","87",Sonny Lubick Field at Hughes Stadium,Fort Collins,CO,Colorado State,Mountain West,"34400","1968","2006",fbs,40.561742448678,-105.139843711922,./0.png
+"87","88",Navy–Marine Corps Memorial Stadium,Annapolis,MD,Navy,American,"34000","1959","2005",fbs,38.9848326354336,-76.5071153640747,./0.png
+"88","89",Wallace Wade Stadium,Durham,NC,Duke,ACC,"33941","1929","2014",fbs,35.9953166502013,-78.9417243003845,./0.png
+"89","90",Ladd Peebles Stadium,Mobile,AL,South Alabama,Sun Belt,"33500","1948","2009",fbs,30.6742389873068,-88.0756330490112,./0.png
+"90","91",Kelly/Shorts Stadium,Mount Pleasant,MI,Central Michigan,MAC,"32885","1972","1997",fbs,43.5776122825745,-84.7708296775818,./0.png
+"91","92",Martin Stadium,Pullman,WA,Washington State,Pac-12,"32248","1972","2000",fbs,46.731967978653,-117.160585787811,./0.png
+"92","93",Gerald J. Ford Stadium,University Park,TX,SMU,American,"32000","2000",,fbs,32.8377158099425,-96.782705783844,./0.png
+"93","94",BB&T Field,Winston-Salem,NC,Wake Forest,ACC,"31500","1968","2007",fbs,36.0918348106128,-80.2553415298462,./0.png
+"94","95","Johnny ""Red"" Floyd Stadium",Murfreesboro,TN,Middle Tennessee,C-USA,"31000","1933","1998",fbs,35.8511090805409,-86.3684499263763,./0.png
+"95","96",Centennial Bank Stadium,Jonesboro,AR,Arkansas State,Sun Belt,"30964","1974","2002",fbs,35.8489900953237,-90.6676949436291,./0.png
+"96","97",Apogee Stadium,Denton,TX,North Texas,C-USA,"30850","2011",,fbs,33.2039350840892,-97.1592235565186,./0.png
+"97","98",Joe Aillet Stadium,Ruston,LA,Louisiana Tech,C-USA,"30600","1968","1989",fbs,32.5322380991582,-92.6560188758494,./0.png
+"98","99",Spartan Stadium,San Jose,CA,San Jose State,Mountain West,"30456","1933","1985",fbs,37.3201051866908,-121.868116130791,./0.png
+"99","100",Malone Stadium,Monroe,LA,Louisiana-Monroe,Sun Belt,"30427","1978","1993",fbs,32.5310686945155,-92.0664407506764,./0.png
+"100","101",Aggie Memorial Stadium,Las Cruces,NM,New Mexico State,Sun Belt,"30343","1978","2005",fbs,32.2797493822641,-106.741136312485,./0.png
+"101","102",Waldo Stadium,Kalamazoo,MI,Western Michigan,MAC,"30200","1939","2003",fbs,42.2857554874702,-85.6010042130947,./0.png
+"102","103",Rynearson Stadium,Ypsilanti,MI,Eastern Michigan,MAC,"30200","1969","1992",fbs,42.2557607087688,-83.6477565765381,./0.png
+"103","104",Mackay Stadium,Reno,NV,Nevada,Mountain West,"30000","1966","2016",fbs,39.5469248501716,-119.817559719086,./0.png
+"104","105",Bobcat Stadium,San Marcos,TX,Texas State,Sun Belt,"30000","1981","2012",fbs,29.8913445487972,-97.9253118055946,./0.png
+"105","106",Summa Field at InfoCision Stadium,Akron,OH,Akron,MAC,"30000","2009",,fbs,41.0725695152871,-81.5083837509155,./0.png
+"106","107",FAU Stadium,Boca Raton,FL,Florida Atlantic,C-USA,"30000","2011",,fbs,26.3754535636523,-80.101683139801,./0.png
+"107","108",Veterans Memorial Stadium,Troy,AL,Troy,Sun Belt,"30000","1950","2003",fbs,31.7995274152521,-85.9521769158619,./0.png
+"108","109",Benson Field at Yulman Stadium,New Orleans,LA,Tulane,American,"30000","2014",,fbs,29.9458981125284,-90.1151911230633,./0.png
+"109","110",War Memorial Stadium,Laramie,WY,Wyoming,Mountain West,"29181","1950","2010",fbs,41.3119359929925,-105.569064617157,./0.png
+"111","112",Georgia Dome,Atlanta,GA,Georgia State,Sun Belt,"28155","1992",,fbs,33.7576173764785,-84.4010603427887,./0.png
+"112","113",Glass Bowl,Toledo,OH,Toledo,MAC,"26248","1937","1990",fbs,41.6573907789532,-83.614017191503,./0.png
+"113","114",Romney Stadium,Logan,UT,Utah State,Mountain West,"25513","1968","1980",fbs,41.7515318861288,-111.812105678856,./0.png
+"114","115",Huskie Stadium,DeKalb,IL,NIU,MAC,"25500","1965","1995",fbs,41.934014,-88.778222,./0.png
+"115","116",Dix Stadium,Kent,OH,Kent State,MAC,"25000","1969","2008",fbs,41.1390868254952,-81.3134394586086,./0.png
+"116","117",Paulson Stadium,Statesboro,GA,Georgia Southern,Sun Belt,"24300","1984","2014",fbs,32.4122116763478,-81.7831707000732,./0.png
+"117","118",Yager Stadium,Oxford,OH,Miami (OH),MAC,"24286","1983","2005",fbs,39.5194211314235,-84.7333545014002,./0.png
+"118","119",Kidd Brewer Stadium,Boone,NC,Appalachian State,Sun Belt,"24050","1962","2009",fbs,36.2115153016931,-81.685506105423,./0.png
+"119","120",Peden Stadium,Athens,OH,Ohio,MAC,"24000","1929","2001",fbs,39.3213090845941,-82.1034394465236,./0.png
+"120","121",Doyt Perry Stadium,Bowling Green,OH,Bowling Green,MAC,"23724","1966",,fbs,41.3780543980323,-83.6224821209908,./0.png
+"121","122",FIU Stadium,Miami,FL,FIU,C-USA,"23500","1995","2012",fbs,25.7524927874741,-80.3778648376465,./0.png
+"122","123",Scheumann Stadium,Muncie,IN,Ball State,MAC,"22500","1967","2007",fbs,40.2160276446665,-85.4176996220661,./0.png
+"123","124",Houchens Industries–L. T. Smith Stadium,Bowling Green,KY,Western Kentucky,C-USA,"22113","1968","2008",fbs,36.9848766298947,-86.459013971646,./0.png
+"124","125",Foreman Field,Norfolk,VA,Old Dominion,C-USA,"20118","1936","2009",fbs,36.8887813152349,-76.3056761026382,./0.png
+"125","126",Warren McGuirk Alumni Stadium,Hadley,MA,UMass,MAC,"17000","1965","2014",fbs,42.3775132360045,-72.5356268605241,./0.png
+"126","127",Kibbie Dome,Moscow,ID,Idaho,Sun Belt,"16000","1975",,fbs,46.7263496146411,-117.017551919226,./0.png
+"127","128",Jerry Richardson Stadium,Charlotte,NC,Charlotte,C-USA,"15314","2013",,fbs,35.3102806761641,-80.7404937710652,./0.png
+"128","129",LP Field,Nashville,Tennessee,Tennessee State Tigers,Ohio Valley,"68798","1999",,fcs,36.166927,-86.771469,./0.png
+"129","130",Yale Bowl,New Haven,Connecticut,Yale Bulldogs,Ivy,"61446","1914",,fcs,41.3121251231603,-72.960229121659,./0.png
+"130","131",Mississippi Veterans Memorial Stadium,Jackson,Mississippi,Jackson State Tigers,SWAC,"60492","1941",,fcs,32.3296335816194,-90.1797831058502,./0.png
+"131","132",Franklin Field,Philadelphia,Pennsylvania,Penn Quakers,Ivy,"52593","1895",,fcs,39.9498850045148,-75.1898074150085,./0.png
+"132","133",Harvard Stadium,Boston,Massachusetts,Harvard Crimson,Ivy,"30323","1903","2007",fcs,42.366997,-71.12680128,./0.png
+"133","134","William ""Dick"" Price Stadium",Norfolk,Virginia,Norfolk State Spartans,MEAC,"30000","1997",,fcs,36.8466930489414,-76.2604808807373,./0.png
+"134","135",Ace W. Mumford Stadium,Baton Rouge,Louisiana,Southern Jaguars,SWAC,"28500","1928",1980 2009,fcs,30.5219699680966,-91.1895312981897,./0.png
+"135","136",Princeton University Stadium,Princeton,New Jersey,Princeton Tigers,Ivy,"27800","1998",,fcs,40.3482203655987,-74.6590840816498,./0.png
+"136","137",Hornet Stadium,Montgomery,Alabama,Alabama State Hornets,SWAC,"26500","2012",,fcs,32.3806859735875,-86.3114156948227,./0.png
+"137","138",Schoellkopf Field,Ithaca,New York,Cornell Big Red,Ivy,"25597","1915","2006",fcs,42.4440129576118,-76.4786839485168,./0.png
+"138","139",Bragg Memorial Stadium,Tallahassee,Florida,Florida A&M Rattlers,MEAC,"25500","1957",,fcs,30.426136950087,-84.291427970328,./0.png
+"139","140",Washington–Grizzly Stadium,Missoula,Montana,Montana Grizzlies,Big Sky,"25200","1986",1995 2003 2008,fcs,46.8639147960057,-113.982060589555,./0.png
+"140","141",Bridgeforth Stadium,Harrisonburg,Virginia,James Madison Dukes,CAA,"24878","1975","2011",fcs,38.4350889358521,-78.8734033040367,./0.png
+"141","142",JSU Stadium,Jacksonville,Alabama,Jacksonville State Gamecocks,Ohio Valley,"24000","1947","2010",fcs,33.820310305704,-85.7664656639099,./0.png
+"142","143",Fitton Field,Worcester,Massachusetts,Holy Cross Crusaders,Patriot,"23500","1924","1986",fcs,42.2410046910841,-71.8114042282104,./0.png
+"143","144",Jack Spinks Stadium,Lorman,Mississippi,Alcorn State Braves,SWAC,"22500","1992",,fcs,31.8731844044784,-91.1363124847412,./0.png
+"144","145",BBVA Compass Stadium,Houston,Texas,Texas Southern Tigers,SWAC,"22039","2012",,fcs,29.7522505600512,-95.3523373603821,./0.png
+"145","146",Oliver C. Dawson Stadium,Orangeburg,South Carolina,South Carolina State Bulldogs,MEAC,"22000","1955",,fcs,33.4987670093183,-80.8449335485869,./0.png
+"146","147",Delaware Stadium,Newark,Delaware,Delaware Fightin' Blue Hens,CAA,"22000","1952",,fcs,39.6617040181287,-75.7488301174382,./0.png
+"147","148",Aggie Stadium,Greensboro,North Carolina,North Carolina A&T Aggies,MEAC,"21500","1981",,fcs,36.0812744166916,-79.7700870037079,./0.png
+"148","149",Hornet Stadium,Sacramento,California,Sacramento State Hornets,Big Sky,"21195","1969","1992",fcs,38.555205007527,-121.422132253647,./0.png
+"149","150",Johnson Hagood Stadium,Charleston,South Carolina,The Citadel Bulldogs,Southern,"21000","1948","2008",fcs,32.7932634640854,-79.9564318910352,./0.png
+"150","151",Louis Crews Stadium,Huntsville,Alabama,Alabama A&M Bulldogs,SWAC,"21000","1996",,fcs,34.7832145305282,-86.5793037414551,./0.png
+"151","152",Finley Stadium,Chattanooga,Tennessee,Chattanooga Mocs,Southern,"20668","1997",,fcs,35.0360404491687,-85.3157687187195,./0.png
+"152","153",Stambaugh Stadium,Youngstown,Ohio,Youngstown State Penguins,Missouri Valley,"20650","1982",,fcs,41.1094614636736,-80.6499762946884,./0.png
+"153","154",Roy Kidd Stadium,Richmond,Kentucky,Eastern Kentucky Colonels,Ohio Valley,"20000","1969",,fcs,37.7344758710105,-84.298095703125,./0.png
+"154","155",Brown Stadium,Providence,Rhode Island,Brown Bears,Ivy,"20000","1925",,fcs,41.8421454678783,-71.3946461077085,./0.png
+"155","156",Eddie Robinson Stadium,Grambling,Louisiana,Grambling State Tigers,SWAC,"19600","1983",,fcs,32.5208674487852,-92.7214074544664,./0.png
+"156","157",Providence Park,Portland,Oregon,Portland State Vikings,Big Sky,"19566","1926","2001",fcs,45.5215559707807,-122.691739797592,./0.png
+"157","158",Williams Stadium,Lynchburg,Virginia,Liberty Flames,Big South,"19200","1989","2010",fcs,37.354414,-79.175047,./0.png
+"158","159",Fargodome,Fargo,North Dakota,North Dakota State Bison,Missouri Valley,"19000","1992",,fcs,46.902907626801,-96.8015222161342,./0.png
+"159","160",Bobcat Stadium,Bozeman,Montana,Montana State Bobcats,Big Sky,"19000","1973","2011",fcs,45.6589275258896,-111.049590110779,./0.png
+"160","161",Plaster Sports Complex,Springfield,Missouri,Missouri State Bears,Missouri Valley,"17500","1941","2014",fcs,37.1976295206598,-93.2799875736237,./0.png
+"161","162",Cowboy Stadium,Lake Charles,Louisiana,McNeese State Cowboys,Southland,"17410","1965","1998",fcs,30.1736932843449,-93.2107460048248,./0.png
+"162","163",Stewart Stadium,Ogden,Utah,Weber State Wildcats,Big Sky,"17000","1966",,fcs,41.1919730213628,-111.940805756735,./0.png
+"163","164",Armstrong Stadium,Hampton,Virginia,Hampton Pirates,MEAC,"17000","1928","1999",fcs,37.0207061232821,-76.333955522166,./0.png
+"164","165",Lawrence A. Wien Stadium,Manhattan,New York,Columbia Lions,Ivy,"17000","1984",,fcs,40.8723189213081,-73.9157140635693,./0.png
+"165","166",Roy Stewart Stadium,Murray,Kentucky,Murray State Racers,Ohio Valley,"16800","1973",,fcs,36.6183866173167,-88.3166027069092,./0.png
+"166","167",Tucker Stadium,Cookeville,Tennessee,Tennessee Tech Golden Eagles,Ohio Valley,"16500","1966",,fcs,36.1775832382056,-85.5065488815308,./0.png
+"167","168",Hanson Field,Macomb,Illinois,Western Illinois Leathernecks,Missouri Valley,"16368","1950","2007",fcs,40.4683923546071,-90.6841564178467,./0.png
+"168","169",UNI-Dome,Cedar Falls,Iowa,Northern Iowa Panthers,Missouri Valley,"16000","1976","1998",fcs,42.5155436208765,-92.4673748016357,./0.png
+"169","170",Provost Umphrey Stadium,Beaumont,Texas,Lamar Cardinals,Southland,"16000","1964",2009-2010,fcs,30.0431500503451,-94.0699072055309,./0.png
+"170","171",Paladin Stadium,Greenville,South Carolina,Furman Paladins,Southern,"16000","1981","1985",fcs,34.9198365246996,-82.4377689786167,./0.png
+"171","172",Goodman Stadium,Bethlehem,Pennsylvania,Lehigh Mountain Hawks,Patriot,"16000","1988",,fcs,40.5891237081224,-75.3554606437683,./0.png
+"172","173",Golden Lion Stadium,Pine Bluff,Arkansas,Arkansas–Pine Bluff Golden Lions,SWAC,"16000","2000",,fcs,34.2528433892265,-92.0217780714438,./0.png
+"173","174",Harry Turpin Stadium,Natchitoches,Louisiana,Northwestern State Demons,Southland,"15971","1976",,fcs,31.7474287136861,-93.0965100969665,./0.png
+"174","175",Walkup Skydome,Flagstaff,Arizona,Northern Arizona Lumberjacks,Big Sky,"15300","1977",,fcs,35.180402970069,-111.653022766113,./0.png
+"175","176",Saluki Stadium,Carbondale,Illinois,Southern Illinois Salukis,Missouri Valley,"15276","2010",,fcs,37.7084995618979,-89.2169578488814,./0.png
+"176","177",Shotwell Stadium,Abilene,Texas,Abilene Christian Wildcats,Southland,"15075","1959","2002",fcs,32.4338020067956,-99.6973657608032,./0.png
+"177","178",Memorial Field,Hanover,New Hampshire,Dartmouth Big Green,Ivy,"15000","1923",,fcs,43.7012721867834,-72.2847763239834,./0.png
+"178","179",Hancock Stadium,Normal,Illinois,Illinois State Redbirds,Missouri Valley,"15000","1963",,fcs,40.5120046806668,-88.9962530136108,./0.png
+"179","180",Coughlin–Alumni Stadium,Brookings,South Dakota,South Dakota State Jackrabbits,Missouri Valley,"15000","1962",,fcs,44.3209773912754,-96.7801523208618,./0.png
+"180","181",Homer Bryce Stadium,Nacogdoches,Texas,Stephen F. Austin Lumberjacks,Southland,"15000","1973","2003",fcs,31.6254476402517,-94.6449971628411,./0.png
+"181","182",Drake Stadium,Des Moines,Iowa,Drake Bulldogs,Pioneer,"14557","1925","2005",fcs,41.6050060515241,-93.655022084713,./0.png
+"182","183",Bowers Stadium,Huntsville,Texas,Sam Houston State Bearkats,Southland,"14000","1986","1986",fcs,30.7139467376334,-95.5419158935547,./0.png
+"183","184",E. J. Whitmire Stadium,Cullowhee,North Carolina,Western Carolina Catamounts,Southern,"13742","1974",,fcs,35.3046540476882,-83.1826186180115,./0.png
+"184","185",Fisher Field,Easton,Pennsylvania,Lafayette Leopards,Patriot,"13132","1926",,fcs,40.7007265741944,-75.2102413284663,./0.png
+"185","186",Christy Mathewson–Memorial Stadium,Lewisburg,Pennsylvania,Bucknell Bison,Patriot,"13100","1924","1989",fcs,40.9520773619051,-76.8857456505959,./0.png
+"186","187",Gibbs Stadium,Spartanburg,South Carolina,Wofford Terriers,Southern,"13000","1996",,fcs,34.9618610164784,-81.9334982124616,./0.png
+"187","188",Villanova Stadium,Villanova,Pennsylvania,Villanova Wildcats,CAA,"12500","1927",,fcs,40.0329706943882,-75.3367495536804,./0.png
+"188","189",Memorial Stadium,Terre Haute,Indiana,Indiana State Sycamores,Missouri Valley,"12464","1925",,fcs,39.4743654748612,-87.3673582077026,./0.png
+"189","190",Alerus Center,Grand Forks,North Dakota,North Dakota,Big Sky,"12283","2001",,fcs,47.9112541581595,-97.0904868543122,./0.png
+"190","191",Zable Stadium,Williamsburg,Virginia,William & Mary Tribe,CAA,"12259","1935",,fcs,37.2730624594961,-76.7142248153687,./0.png
+"191","192",Holt Arena,Pocatello,Idaho,Idaho State Bengals,Big Sky,"12000","1970",,fcs,42.8700355712199,-112.428524494171,./0.png
+"192","193",Rhodes Stadium,Elon,North Carolina,Elon Phoenix,CAA,"11250","2001",,fcs,36.1098743683231,-79.5076811313629,./0.png
+"193","194",Alex G. Spanos Stadium,San Luis Obispo,California,Cal Poly Mustangs,Big Sky,"11075","2006",,fcs,35.2985168294003,-120.665114225168,./0.png
+"194","195",Houck Stadium,Cape Girardeau,Missouri,Southeast Missouri State Redhawks,Ohio Valley,"11015","1930",,fcs,37.309193277176,-89.5314717292786,./0.png
+"195","196",Johnny Unitas Stadium,Towson,Maryland,Towson Tigers,CAA,"11000","1978","2002",fcs,39.3885267480888,-76.615959405899,./0.png
+"196","197",Welcome Stadium,Dayton,Ohio,Dayton Flyers,Pioneer,"11000","1949","1974",fcs,39.736938,-84.198786658853,./0.png
+"197","198",Aggie Stadium,Davis,California,UC Davis Aggies,Big Sky,"10849","2007",,fcs,38.5366354611756,-121.763319969177,./0.png
+"198","199",John L. Guidry Stadium,Thibodaux,Louisiana,Nicholls State Colonels,Southland,"10500","1972","2012",fcs,29.7866830856859,-90.8036386917808,./0.png
+"199","200",Andy Kerr Stadium,Hamilton,New York,Colgate Raiders,Patriot,"10221","1966","1991",fcs,42.8165272450098,-75.5458116531372,./0.png
+"200","201",Moye Complex,Macon,Georgia,Mercer Bears,Southern,"10200","2013",,fcs,32.834263,-83.626851,./0.png
+"201","202",O'Kelly–Riddick Stadium,Durham,North Carolina,North Carolina Central Eagles,MEAC,"10000","1975",,fcs,35.9738881219201,-78.8968941002637,./0.png
+"202","203",O'Brien Stadium,Charleston,Illinois,Eastern Illinois Panthers,Ohio Valley,"10000","1970","1999",fcs,39.4805930240453,-88.1811618804932,./0.png
+"203","204",Jayne Stadium,Morehead,Kentucky,Morehead State Eagles,Pioneer,"10000","1964",,fcs,38.1918679567419,-83.4253692626953,./0.png
+"204","205",Alumni Memorial Field,Lexington,Virginia,VMI Keydets,Southern,"10000","1962","2006",fcs,37.7886767456341,-79.434997567868,./0.png
+"205","206",Governors Stadium,Clarksville,Tennessee,Austin Peay Governors,Ohio Valley,"10000","1946","2014",fcs,36.5358122959845,-87.3528528213501,./0.png
+"206","207",Alfond Stadium,Orono,Maine,Maine Black Bears,CAA,"10000","1998",,fcs,44.9044661257468,-68.6735505581341,./0.png
+"207","208",DakotaDome,Vermillion,South Dakota,South Dakota Coyotes,Missouri Valley,"10000","1979","2007",fcs,42.791050257052,-96.9275201606502,./0.png
+"208","209",Kermit Tipton Stadium,Johnson City,Tennessee,East Tennessee State Buccaneers,Southern,"6600","2010",,fcs,36.3270867430187,-82.3769417861926,./0.png
+"209","210",Hughes Stadium,Baltimore,Maryland,Morgan State Bears,MEAC,"10000","1949",,fcs,39.2779653647446,-76.6226944327354,./0.png
+"210","211",Municipal Stadium,Daytona Beach,Florida,Bethune–Cookman Wildcats,MEAC,"10000","1979",,fcs,29.1730751119706,-81.1177679002626,./0.png
+"211","212",Rice–Totten Field,Itta Bena,Mississippi,Mississippi Valley State Delta Devils,SWAC,"10000","1958",,fcs,33.5093393678006,-90.3437948226929,./0.png
+"212","213",William H. Greene Stadium,Washington,D.C.,Howard Bison,MEAC,"10000","1986",,fcs,38.9256708847653,-77.0212412131183,./0.png
+"213","214",Brooks Stadium,Conway,South Carolina,Coastal Carolina Chanticleers,Big South,"9214","2003","20062010",fcs,33.7928381752245,-79.0170228280525,./0.png
+"214","215",E. Claiborne Robins Stadium,Richmond,Virginia,Richmond Spiders,CAA,"9000","2010",,fcs,37.5778650064475,-77.5439715385437,./0.png
+"215","216",Estes Stadium,Conway,Arkansas,Central Arkansas Bears,Southland,"9000","1939","2012",fcs,35.0803032166219,-92.4601221084595,./0.png
+"216","217",Roos Field,Cheney,Washington,Eastern Washington Eagles,Big Sky,"8600","1967",,fcs,47.4927037670048,-117.588129043579,./0.png
+"217","218",Nottingham Field,Greeley,Colorado,Northern Colorado Bears,Big Sky,"8533","1995",,fcs,40.4033496582309,-104.705189466476,./0.png
+"218","219",Eccles Coliseum,Cedar City,Utah,Southern Utah Thunderbirds,Big Sky,"8500","1967","1997",fcs,37.6756687492631,-113.077490329742,./0.png
+"219","220",Bob Ford Field,Albany,New York,Albany Great Danes,CAA,"8500","2013",,fcs,42.6815441600528,-73.8277173042297,./0.png
+"220","221",Ernest W. Spangler Stadium,Boiling Springs,North Carolina,Gardner–Webb Runnin' Bulldogs,Big South,"8500","1969",,fcs,35.2456686619943,-81.6737427963356,./0.png
+"221","222",Fifth Third Bank Stadium,Kennesaw,Georgia,Kennesaw State Owls,Big South,"8318","2010",,fcs,34.0234337,-84.6154897,./0.png
+"222","223",Kenneth P. LaValle Stadium,Stony Brook,New York,Stony Brook Seawolves,CAA,"8200","2002",,fcs,40.9183122023565,-73.1240451335907,./0.png
+"223","224",Graham Stadium,Martin,Tennessee,UT Martin Skyhawks,Ohio Valley,"8000","1964",,fcs,36.3447372747398,-88.8611769676208,./0.png
+"224","225",Cowell Stadium,Durham,New Hampshire,New Hampshire Wildcats,CAA,"8000","1936",,fcs,43.1386864425561,-70.9391525387764,./0.png
+"225","226",Ted Wright Stadium,Savannah,Georgia,Savannah State Tigers,MEAC,"7500","1967",,fcs,32.0272781610044,-81.0692696837302,./0.png
+"226","227",Strawberry Stadium,Hammond,Louisiana,Southeastern Louisiana Lions,Southland,"7408","1936","2008",fcs,30.5109652922055,-90.4687964916229,./0.png
+"227","228",Alumni Stadium,Dover,Delaware,Delaware State Hornets,MEAC,"7000","1980",,fcs,39.1888260066536,-75.5434942245483,./0.png
+"228","229",Coffey Field,The Bronx,New York,Fordham Rams,Patriot,"7000","1930",,fcs,40.8611805435104,-73.8832712173462,./0.png
+"229","230",Seibert Stadium,Homewood,Alabama,Samford Bulldogs,Southern,"6700","1958",,fcs,33.463425,-86.7952702,./0.png
+"230","231",Bailey Memorial Stadium,Clinton,South Carolina,Presbyterian Blue Hose,Big South,"6500","2002",,fcs,34.4605571284515,-81.8619809838005,./0.png
+"231","232",Richardson Stadium,Davidson,North Carolina,Davidson Wildcats,Pioneer,"6000","1923","1998",fcs,35.4995848258247,-80.8434523914253,./0.png
+"232","233",Gayle and Tom Benson Stadium,San Antonio,Texas,Incarnate Word Cardinals,Southland,"6000","2008","2010",fcs,29.4672834309755,-98.4698613211319,./0.png
+"233","234",Blackshear Field,Prairie View,Texas,Prairie View A&M Panthers,SWAC,"6000","1960",,fcs,30.0911525909566,-95.9944152832031,./0.png
+"234","235",Spec Martin Municipal Stadium,DeLand,Florida,Stetson Hatters,Pioneer,"6000","1941",,fcs,29.0195078302558,-81.3003186248934,./0.png
+"235","236",Torero Stadium,San Diego,California,San Diego Toreros,Pioneer,"6000","1961",,fcs,32.7734961025847,-117.183797873547,./0.png
+"236","237",Butler Bowl,Indianapolis,Indiana,Butler Bulldogs,Pioneer,"5500","1928",2010 ,fcs,39.8442975650597,-86.166241911809,./0.png
+"237","238",Meade Stadium,Kingston,Rhode Island,Rhode Island Rams,CAA,"5180","1928","2003",fcs,41.4880575336857,-71.5345226391631,./0.png
+"238","239",Leonidoff Field,Poughkeepsie,New York,Marist Red Foxes,Pioneer,"5000","1968","2007",fcs,41.7189273847624,-73.9326238632202,./0.png
+"239","240",Husky Stadium,Houston,Texas,Houston Baptist Huskies,Southland,"5000","2014",,fcs,29.7522505600512,-95.3523373603821,./0.png
+"240","241",Brown Field,Valparaiso,Indiana,Valparaiso Crusaders,Pioneer,"5000","1919",,fcs,41.4651788074141,-87.0478345286491,./0.png
+"241","242",Barker–Lane Stadium,Buies Creek,North Carolina,Campbell Fighting Camels,Pioneer,"5000","2008",,fcs,35.4047183451882,-78.7429795892665,./0.png
+"242","243",D. B. Milne Field,Jacksonville,Florida,Jacksonville Dolphins,Pioneer,"5000","1998",,fcs,30.3564796531145,-81.6058533726947,./0.png
+"243","244",Bulldog Stadium,Smithfield,Rhode Island,Bryant Bulldogs,Northeast,"4400","1999",,fcs,41.9240451152858,-71.5380118857875,./0.png
+"244","245",Kessler Field,West Long Branch,New Jersey,Monmouth Hawks,Big South,"4000","1993",,fcs,40.2793333205064,-74.0094745159149,./0.png
+"245","246",Buccaneer Field,North Charleston,South Carolina,Charleston Southern Buccaneers,Big South,"4000","1970",,fcs,32.9783500561406,-80.0684685823592,./0.png
+"246","247",Campus Field,Fairfield,Connecticut,Sacred Heart Pioneers,Northeast,"4000","1993",,fcs,41.2194501755772,-73.2456172977672,./0.png
+"247","248",Arute Field,New Britain,Connecticut,Central Connecticut State Blue Devils,Northeast,"3500","1969",,fcs,41.6951367540605,-72.7614321591481,./0.png
+"248","249",DeGol Field,Loretto,Pennsylvania,Saint Francis Red Flash,Northeast,"3500","2006",,fcs,40.5063595611279,-78.636972989832,./0.png
+"249","250",Wagner College Stadium,Staten Island,New York,Wagner Seahawks,Northeast,"3300","1967",,fcs,40.6173245424404,-74.0954312377263,./0.png
+"250","251",Joe Walton Stadium,Moon Township,Pennsylvania,Robert Morris Colonials,Northeast,"3000","2005",,fcs,40.521172309297,-80.2162992954254,./0.png
+"251","252",Cooper Field,Georgetown,Washington D.C.,Georgetown Hoyas,Patriot,"2500","2005",,fcs,38.9080328116556,-77.075400352478,./0.png
+"252","253",Arthur J. Rooney Athletic Field,Pittsburgh,Pennsylvania,Duquesne Dukes,Northeast,"2200","1993","2011",fcs,40.4356217823094,-79.9901509070334,./0.png
